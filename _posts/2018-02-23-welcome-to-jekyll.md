@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to my blog!
 author: danny_englander
 date: '2019-02-27 12:02:00'
 intro_paragraph: This is a welcome paragraph.
